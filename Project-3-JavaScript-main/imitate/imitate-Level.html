@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imitate Level | Developers Academy
+    </title>
+    <link rel="stylesheet" href="imitate-style.css">
+
+
+  
+</head>
+<body onload="redirect()">
+
+      <!-- Navbar code -->
+
+      <nav id="navbar">
+
+
+        <img id="logo" src="../images/logo.png">
+
+      </nav>
+
+      <!-- page  -->
+
+      <div id="first-page"> 
+        <div id="left-div" >
+            <p><span class="first-title" id="greentext" >Imitate </span> <span class="first-title" id="darktext">Level </span> </p>
+            <p id="imitat-p">This test which contain 20% from the whole questions.</p>
+            <div id="button1" > <button id="level1"><a href="questions-1.html" id="linkstart">Start Imitate Level</a></button></div>
+        </div>
+
+        <img src="../images/firstimg.png" id="first-img">
+
+      </div>
+
+            <!-- footer -->
+
+
+      <footer id="footer1">
+        <p id="rights">© 2022 Developers Academy. All Rights Reserved</p>
+      </footer>
+
+      <script>
+        function redirect() {
+      if (sessionStorage.length == 0) {
+        document.head.innerHTML = <meta http-equiv="Refresh" content="0; url='../login/login.html'" />
+      }
+      if ( sessionStorage.getItem('done') == 'true') {
+        document.head.innerHTML = <meta http-equiv="Refresh" content="0; url='../result/index.html'" />
+      }
+    }
+      </script>
+    
+    
+</body>
+</html>

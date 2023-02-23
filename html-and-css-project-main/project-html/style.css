@@ -1,0 +1,1055 @@
+
+.btn {
+   
+    background-color:#2C0835;
+    color: #DCD3CB;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left:30%;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color:#DCD3CB;
+    color: #2C0835;
+  }
+.bg-nav{
+    background-color:#2C0835;
+    height:350px;
+    
+}
+.name{
+    font-family:Impact;
+    color: #DCD3CB;
+    background-color: #2C0835;
+  margin-left:400px;
+  margin-top:100px;
+}
+.logo{
+    display:inline-block;
+   width:70px; 
+   height:50px; 
+   margin-left:40px;
+}
+.namemobile{
+    display:none;
+}
+        .nav-item{
+         color:#DCD3CB; 
+         background-color:#2C0835; 
+         font-family:'Abrill fatface';
+        }
+        .nav-item :hover{
+            color:#DCD3CB; 
+        }
+        
+        .abs-section{
+            position:absolute;
+        }
+        .bg-color{
+            background-color:#2C0835;
+            width:100%;
+            height:350px;
+        }
+        .div-left{
+            /* box-shadow:-5px -5px 10px #DCD3CB; */
+            border-radius:10px;
+            display:inline-block;
+             width:30%; 
+             height:1500px; 
+             background-color: #DCD3CB; 
+             margin-left:30px; 
+             margin-top:-195px;
+        }
+        .icon{
+            color:#2C0835; 
+            font-size:25px; 
+                    }
+        .personal-info{
+            display:inline-block; 
+            font-family:'Abrill fatface'; 
+            font-size:20px;
+            color: #2C0835;
+            text-decoration:none;
+           margin-left:5px;
+        }
+        .personal-info :hover{
+            color: #2C0835;
+        }
+        .flex-cont1{
+            display:flex;
+            flex-wrap:wrap;
+        }
+        .flex-cont1>div{
+            color:#2C0835;
+        }
+
+        .flex-cont2{
+            display:flex;
+            flex-wrap:wrap;
+           flex-direction:column;
+            width:50%; 
+            
+             margin-left:630px; 
+        }
+       
+        .flex-cont2>div{
+            color:#2C0835;
+        }
+        
+        .cards{
+            box-shadow:-10px -10px 10px #DCD3CB;
+            border-radius:30%;
+            width: 300px;
+            height:300px;
+            color: #2C0835;
+            font-family:Abrill fatface ;
+            border: 2px black solid; 
+            text-align: center;
+        }
+        .cards :hover{
+            box-shadow:10px 10px 15px #DCD3CB;
+        }
+        .sections{
+            border-radius:10px;
+            background-color: #2C0835;
+            color: #DCD3CB;
+            text-align: center;
+            width:100%;
+           
+        }
+       
+        footer{
+            background-color: #2C0835;
+            color: #DCD3CB;
+            width:100%;
+            height:175px;
+            margin-top:200px;
+            font-family:'Abrill fatface';
+            font-size:15px;
+        }
+        .info-footer{
+            width:400px;
+            margin-left:20px;
+        }
+        .profile-image{
+            margin-left:127px;
+         margin-top:35px;
+         border-radius:50%;
+         width:200px;
+         height:200px;
+        }
+        .main-title{
+            margin-left:30px;
+            margin-top:25px;
+            }
+        /* .main-title :hover{
+            box-shadow:10px 10px 50px #DCD3CB;
+            } */
+        .margin-50{
+            margin-left:50px;
+        }
+        .margin-80{
+            margin-left:80px;
+        }
+        .margin-30{
+            margin-left:33px;
+        }
+        .margin-30L{
+            margin-left:33px;
+        }
+        .margin-40{
+            margin-left:40px;
+        }
+        .margin-ref-info{
+            margin-left:50px;
+            margin-top:10px;
+        }
+        .margin-700{
+            margin-left:700px;
+        }
+        .education-sec{
+            width: 760px; 
+            font-family:'Abrill fatface'; 
+            border:2px black solid; 
+            height:360px;
+            box-shadow:-5px -5px 10px #DCD3CB;
+            border-radius:10px;
+           
+        }
+        .university-img{
+         float:left;
+          width:150px;
+           height:150px; 
+           margin-top:65px;
+           margin-left:10px;
+        }
+       .edu-info{
+        display:inline-block;
+         margin-top:15px; 
+         color:#2C0835; 
+         font-size:15px; 
+         width: 580px; 
+         font-family:'Abrill fatface';
+       }
+       .edu-date{
+        padding-left:250px;  
+        color:#2C0835;
+         font-size:10px;
+       }
+       .font-size-cer-title{
+        font-size:20px;
+       }
+       .font-size-cer-desc{
+        font-size:16px;
+       }
+       .font-size-cer-min-desc{
+        font-size:12px;
+       }
+       .edu-margin-top{
+        
+        margin-top:-1250px;
+        height:500px;
+       }
+       .exp-margin-top{
+        margin-top:-820px;
+        height:700px;
+       }
+       .cer-margin-top{
+        height:500px;
+        margin-top:-530px;
+       }
+       .ref-margin-top{
+        height:500px;
+        margin-top:-200px;
+       }
+
+       .experince-sec{
+        box-shadow:-5px -5px 10px #DCD3CB;
+        border-radius:10px;
+        color:#2C0835; 
+        font-size:15px; 
+        width: 760px; 
+        font-family:'Abrill fatface'; 
+        border:2px #2C0835 solid;
+    }
+    .certificate-sec{
+        box-shadow:-5px -5px 10px #DCD3CB;
+            border-radius:10px;
+       
+        color:#2C0835; 
+        font-size:15px; 
+        width: 760px; 
+        font-family:'Abrill fatface'; 
+        border:2px #2C0835 solid;
+    }
+       .exp-date{
+         padding-left:300px; 
+          color:#2C0835; 
+         font-size:10px;
+       }
+       .exp-date2{
+        padding-left:213px;  
+        color:#2C0835;
+         font-size:10px;
+      }
+      .cer-date1{
+        padding-left:300px; 
+         color:#2C0835; 
+        font-size:15px;
+      }
+      .cer-date2{
+        padding-left:440px;  
+        color:#2C0835;
+         font-size:15px;
+          }
+      .cer-date3{
+        padding-left:415px;
+         color:#2C0835; 
+        font-size:15px;
+      }
+      .cer-desc{
+        margin-left:45px; 
+        width:500px;
+      }
+      .font-social{
+        margin-right:220px;
+    }
+    .social-icon{
+        font-size:60px; 
+        color: #DCD3CB; 
+        margin-left:20px; 
+       }
+    .float-footer{
+        float:left; 
+        margin-left:300px;
+    }
+   
+    .logo-footer2{
+        display:none;
+    }
+    .logo-footer{
+     width:150px;
+      height:100px; 
+     float:left; 
+     margin-left:300px; 
+     margin-top:30px;
+    }
+    .border-ref{
+        border:2px solid #DCD3CB;
+    border-radius: 10px;
+    height:635px;
+    }
+    .progress{
+        width:150px;
+    }
+    #phonelogo{
+        display: none;
+    }
+
+
+
+    
+    label .menu {
+         position: absolute;
+        left: 200px;
+        top: -110px;
+        z-index: 100;
+        width: 200px;
+        height: 50px; 
+        background: #DCD3CB;
+        border-radius: 10% 10% 10% 10%;
+        -webkit-transition: .5s ease-in-out;
+        transition: .5s ease-in-out;
+        box-shadow: 0 0 0 0 #fff, 0 0 0 0 #fff;
+        cursor: pointer;
+        
+        
+      }
+      #ulm{
+       
+       
+        top: 150px;
+        
+      
+      }
+      
+      
+      label .hamburger {
+        position: absolute;
+        top: 145px;
+        left: 50px;
+        width: 30px;
+        height: 2px;
+        background: #DCD3CB;
+        display: none;
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transition: .5s ease-in-out;
+        transition: .5s ease-in-out;
+      }
+      
+      label .hamburger:after, label .hamburger:before {
+        -webkit-transition: .5s ease-in-out;
+        transition: .5s ease-in-out;
+        content: "";
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+        background: #DCD3CB;
+        
+      }
+      
+      label .hamburger:before { top: -10px; }
+      
+      label .hamburger:after { bottom: -10px; }
+      
+      label input { display: none; }
+      
+      label input:checked + .menu {
+        /* box-shadow: 0 0 0 10vw #FFF, 0 0 0 10vh #fff;
+        border-radius: 0; */
+        width: 100px ;
+        
+        
+        
+        
+      }
+      
+      
+      label input:checked + .menu .hamburger {
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        
+      }
+      
+      label input:checked + .menu .hamburger:after {
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+        bottom: 0;
+        
+      }
+      
+      label input:checked + .menu .hamburger:before {
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+        top: 0;
+        
+      }
+      
+      label input:checked + .menu + ul { opacity: 1; }
+      
+      label ul {
+        z-index: 200;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        opacity: 0;
+        -webkit-transition: .25s 0s ease-in-out;
+        transition: .25s 0s ease-in-out;
+        color: #fff;
+      }
+      
+      label a {
+        margin-bottom: 1em;
+        display: block;
+        color: #2C0835;
+        text-decoration: none;
+        color: #fff;
+        
+        
+      }
+  
+  
+   
+    
+    
+        /*******************************************Mobile*************/
+        @media only screen and (min-width:0px) and (max-width:480px){
+
+            .navbar-tab{display: none;}
+           
+            nav.menu {
+                width: 300px;
+                min-height: calc(100vh - 121px);
+                background-color: #2C0835;
+                position: absolute;
+                left: -300px;
+                transition: .3s all;
+            }
+            /* .mynav2{
+                display: none;
+                
+        
+            } */
+            #phonelogo{
+                display: inline;
+                
+            }
+            label input:checked + .menu {
+                box-shadow: 0 0 0 60vw #2C0835, 0 0 0 80vh #2C0835;
+                border-radius: 0;
+                width: 100px ;
+                
+                
+                
+                
+              }
+            label .hamburger {
+              display: block;
+            }
+            nav.menu > a {
+                display: block;
+                padding: 5px;
+                margin: 15px 0 0px 20px;
+                color: #494949;
+                text-transform: uppercase;
+            }
+
+
+
+          .bur-sty{
+            color: #DCD3CB;
+            background-color: #2C0835;
+          }
+            .border-ref{
+                border:2px solid #2C0835;
+            border-radius: 10px;
+            height:1230px;
+            }
+            .mid2-rate{
+                width:33px;
+            }
+            .namemobile{
+                width: 100%;
+                display:inline-block;
+                text-align: center;
+                font-family:Impact;
+                font-size:20px;
+                font-weight: bold;
+                color: #2C0835;
+                background-color:#DCD3CB;
+              /* margin-left:25px; */
+              margin-top:10px;
+            }
+            .btn {
+   
+                background-color:#2C0835;
+                color: #DCD3CB;
+                border: none;
+                color: white;
+                padding: 12px 30px;
+                cursor: pointer;
+                font-size:12px;
+                margin-left:30%;
+              }
+           
+            .name{
+                display: none;
+            }
+            .logo{
+                display:inline-block;
+               width:70px; 
+               height:40px; 
+               margin-left:20px;
+               margin-top:10px;
+            }
+            .nav-item{
+                font-size:7px;
+                margin-left:-9px;
+               }
+            .bg-nav{
+                background-color:#2C0835;
+                height:80px;
+            }
+            .div-left{
+                border-radius:2px;
+                display:block;
+                 width:100%; 
+                 height:825px; 
+                 background-color: #DCD3CB; 
+                 margin-left:0px; 
+                 margin-top:0px;
+            }
+            .profile-image{
+            float:left;
+            margin-left:34px;
+             margin-top:9px;
+             width:250px;
+             height:250px;
+            }
+            .main-title{
+                margin-left:30px;
+                margin-top:5px;
+                font-size: 15px;
+                }
+
+            .icon{
+                color:#2C0835; 
+                font-size:10px; 
+                 }
+            .personal-info{
+                display:inline-block; 
+                font-family:'Abrill fatface'; 
+                font-size:10px;
+                margin-left:5px;
+                }
+            .new-style-b{
+                display:flex;
+                flex-wrap: wrap;
+                margin-top:0px;
+               margin-left:1%;
+            }
+            .new-style-I{
+                border-radius:10px;
+                display:inline-block;
+                width:150px;
+                height:175px;
+                margin-top:5px;
+                margin-left:5px;
+                border:1px #2C0835 solid;
+            }
+            .margin-50{
+                margin-left:15px;
+            }
+            .margin-80{
+                margin-left:20px;
+            }
+            .margin-30{
+                margin-left:5px;
+            }
+            .margin-30L{
+                margin-left:10px;
+            }
+            .margin-40{
+                margin-left:7px;
+            }
+            .margin-700{
+                margin-left:25px;
+            }
+            .margin-top-skill{
+                margin-top:25px;
+            }
+            .full-rate{
+                width:59px;
+            }
+            .mid-rate{
+                width:40px;
+            }
+            /*left*/
+            
+            .flex-cont2{
+                display:flex;
+                flex-wrap:wrap;
+               flex-direction:column;
+                width:100%; 
+                
+                 margin-left:0px; 
+                margin-top:0px;
+            }
+            .edu-margin-top{
+                margin-top:15px;
+                height:100px;
+               }
+            .exp-margin-top{
+                margin-top:310px;
+                height:200x;
+               }
+            .cer-margin-top{
+              
+                height:200px;
+                margin-top:-485px;
+               }
+            .education-sec{
+                width:100%; 
+                font-family:'Abrill fatface'; 
+                border:2px #2C0835 solid; 
+                height:365px;
+            }
+            .experince-sec{
+                font-size:15px; 
+                width:100%; 
+                
+            }
+            .certificate-sec{
+                color:#2C0835; 
+                font-size:15px; 
+                width:100%; 
+                font-family:'Abrill fatface'; 
+                border:2px #2C0835 solid;
+            }
+            .university-img{
+               
+                 width:90px;
+                  height:90px; 
+                  margin-top:5px;
+                  margin-left:115px;
+               }
+               .edu-info{
+               
+                display:inline-block;
+                 margin-top:5px; 
+                 margin-left:20px;
+                 color:#2C0835; 
+                 font-size:9px; 
+                 width: 250px; 
+                 font-weight: bold;
+                 font-family:'Abrill fatface';
+               }
+               .edu-date{
+                
+                padding-left:60px;  
+                color:#2C0835;
+                 font-size:7px;
+               }  
+               .font-size-cer-title{
+                font-size:10px;
+                              
+              }
+               .font-size-cer-desc{
+                font-size:10px;
+               }
+               .font-size-cer-min-desc{
+                font-size:10px;
+               }
+               .exp-date{
+                padding-left:60px; 
+                 color:#2C0835; 
+                font-size:8px;
+              }
+              .exp-date2{
+               padding-left:20px;  
+               color:#2C0835;
+                font-size:8px;
+             }
+            .cer-date1{
+                padding-left:45px; 
+                 color:#2C0835; 
+                font-size:9px;
+              }
+            .cer-date2{
+                padding-left:115px;  
+                color:#2C0835;
+                 font-size:9px;
+                  }
+            .cer-date3{
+                padding-left:100px;
+                color:#2C0835; 
+                font-size:9px;
+                }
+            .cer-info{
+                width:319px;}
+            
+            .cer-desc{
+                margin-left:5px; 
+                width:250px;
+                font-size:12px;
+                  }
+            .ref-margin-top{
+                height:500px;
+                margin-top:-210px;
+              
+                }
+            .margin-ref-info{
+                margin-left:10px;
+                margin-top:5px;
+                }
+                footer{
+                    width:100%;
+                    height:200px;
+                    margin-top:775px;
+                    font-family:'Abrill fatface';
+                    font-size:9px;
+                }
+                .info-footer{
+                    width:300px;
+                    margin-left:15px;
+                    font-size:10px;
+                }
+                .logo-footer{
+                    display: none;
+                }
+                .logo-footer2{
+                    display: inline-block;
+                }
+                .font-social{
+                    margin-right:0px;
+                    margin-left:5px;
+                    font-size:14px;
+                    width:90px;
+                   
+                }
+                .social-icon{
+                 font-size:20px; 
+                }
+                .float-footer{
+                    float:left; 
+                    margin-left:10px;
+                }
+                .margin-list{
+                    margin-left:-25px;
+                }
+                
+        }
+
+
+        /*****************Tablet****************/
+        @media only screen and (min-width:481px) and (max-width:768px){
+            .navbar-tab{display:flex;}
+
+          .navbar-web{display:none;}
+            .btn {
+   
+                background-color:#2C0835;
+                color: #DCD3CB;
+                border: none;
+                color: white;
+                padding: 12px 30px;
+                cursor: pointer;
+                font-size:14px;
+                margin-left:40%;
+              }
+            .border-ref{
+                border:2px solid #2C0835;
+            border-radius: 10px;
+            height:626px;
+            }
+            .margin-list{
+                margin-left:-25px;
+               
+            }
+            .namemobile{
+                display:inline-block;
+                font-family:Impact;
+                font-size:20px;
+                color: #2C0835;
+                background-color:#DCD3CB;
+                text-align:center;
+              margin-left:15px;
+              margin-top:80px;
+              width:400px;
+              
+            }
+            .profile-image{
+                float:left;
+                margin-left:64px;
+                 margin-top:6px;
+                 width:250px;
+                 height:250px;
+                }
+           
+            .name{
+                display: none;
+            }
+            .logo{
+                display:inline-block;
+               width:100px; 
+               height:50px; 
+               margin-left:20px;
+            }
+            .nav-item{
+                font-size:14px;
+                margin-left:-7px;
+               }
+            .bg-nav{
+                background-color:#2C0835;
+                width:100%;
+                height:70px;
+            }
+            .div-left{
+                border-radius:2px;
+                display:block;
+                 width:100%; 
+                 height:600px; 
+                 background-color: #DCD3CB; 
+                 margin-left:0px; 
+                 margin-top:0px;
+            }
+            
+            .main-title{
+                margin-left:30px;
+                margin-top:5px;
+                font-size: 15px;
+                }
+
+            .icon{
+                color:#2C0835; 
+                font-size:10px; 
+                 }
+            .personal-info{
+                display:inline-block; 
+                font-family:'Abrill fatface'; 
+                font-size:10px;
+                margin-left:5px;
+                font-weight:bold;
+                }
+            .new-style-b{
+                display:flex;
+                flex-wrap: wrap;
+                margin-top:90px;
+               margin-left:5%;
+            }
+            .new-style-I{
+                border-radius:10px;
+                display:inline-block;
+                width:150px;
+                height:175px;
+                margin-left:18px;
+                border:1px #2C0835 solid;
+            }
+            
+            .margin-50{
+                margin-left:15px;
+            }
+            .margin-80{
+                margin-left:20px;
+            }
+            .margin-30{
+                margin-left:5px;
+            }
+            .margin-30L{
+                margin-left:10px;
+            }
+            .margin-40{
+                margin-left:7px;
+            }
+            .margin-700{
+                margin-left:25px;
+            }
+            .margin-top-skill{
+                margin-top:25px;
+            }
+            .full-rate{
+                width:60px;
+            }
+            .mid-rate{
+                width:40px;
+            }
+            .mid2-rate{
+                width:33px;
+            }
+            /*left*/
+            
+            .flex-cont2{
+                display:flex;
+                flex-wrap:wrap;
+               flex-direction:column;
+                width:100%; 
+                
+                 margin-left:0px; 
+                margin-top:0px;
+            }
+            .edu-margin-top{
+                margin-top:15px;
+                height:100px;
+               }
+            .exp-margin-top{
+                margin-top:250px;
+                height:200x;
+               }
+            .cer-margin-top{
+                height:200px;
+                margin-top:-450px;
+               }
+            .education-sec{
+                width:100%; 
+                font-family:'Abrill fatface'; 
+                border:2px #2C0835 solid; 
+                height:300px;
+            }
+            .experince-sec{
+                font-size:16px; 
+                width:100%; 
+
+                
+            }
+            .certificate-sec{
+                color:#2C0835; 
+                font-size:15px; 
+                width:100%; 
+                font-family:'Abrill fatface'; 
+                border:2px #2C0835 solid;
+            }
+            .university-img{
+               
+                 width:100px;
+                  height:100px; 
+                  margin-top:85px;
+                  margin-left:30px;
+               }
+               .edu-info{
+               
+                display:inline-block;
+                 margin-top:5px; 
+                 margin-left:20px;
+                 color:#2C0835; 
+                 font-size:12px; 
+                 width:500px; 
+                 font-weight: bold;
+                 font-family:'Abrill fatface';
+               }
+               .edu-date{
+                
+                padding-left:200px;  
+                color:#2C0835;
+                 font-size:10px;
+               }  
+               .font-size-cer-title{
+                font-size:16px;
+                              
+              }
+               .font-size-cer-desc{
+                font-size:14px;
+               }
+               .font-size-cer-min-desc{
+                font-size:12px;
+               }
+               .exp-date{
+                padding-left:285px; 
+                 color:#2C0835; 
+                font-size:12px;
+              }
+              .exp-date2{
+               padding-left:225px;  
+               color:#2C0835;
+                font-size:12px;
+             }
+            .cer-date1{
+                padding-left:385px; 
+                 color:#2C0835; 
+                font-size:12px;
+              }
+            .cer-date2{
+                padding-left:500px;  
+                color:#2C0835;
+                 font-size:12px;
+                  }
+            .cer-date3{
+                padding-left:475px;
+                color:#2C0835; 
+                font-size:12px;
+                }
+            .cer-info{
+                width:100%;}
+            
+            .cer-desc{
+                margin-left:5px; 
+                width:500px;
+                  }
+            .ref-margin-top{
+                height:500px;
+                margin-top:-175px;
+                }
+            .margin-ref-info{
+                margin-left:10px;
+                margin-top:5px;
+                }
+                footer{
+                    width:100%;
+                    height:150px;
+                    margin-top:170px;
+                    font-family:'Abrill fatface';
+                    font-size:14px;
+                }
+                .info-footer{
+                    width:300px;
+                    margin-left:15px;
+                    font-size:12px;
+                }
+                .logo-footer{
+                    width:110px;
+                     height:90px; 
+                    float:left; 
+                    margin-left:70px; 
+                    margin-top:25px;
+                   }
+                .logo-footer2{
+                    display:none;
+                }
+                .font-social{
+                    margin-right:0px;
+                    margin-left:20px;
+                    font-size:20px;
+                    width:200px;
+                   
+                }
+                .social-icon{
+                 font-size:30px; 
+                 margin-left:30px;
+                }
+                .float-footer{
+                    float:right; 
+                    margin-left:15px;
+                }
+                .margin-ref-info{
+                    margin-left:55px;
+                    margin-top:10px;
+                }
+               
+        }
